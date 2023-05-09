@@ -12,6 +12,14 @@
 - Go to your project's root folder and run `npm install` or `yarn install`
 - Run `yarn start` or `npx expo start`
 
+
+https://user-images.githubusercontent.com/33680097/236979882-101c999c-cf7c-4943-b3b4-03da5775abf0.mp4
+
+
+
+
+
+
 # Images
 This is an example app built for the Simplifying State Management in React Native book.
 
