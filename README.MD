@@ -1,5 +1,18 @@
+
+
 # Funbook App
 
+## Prerequisites
+- [Nodejs > v16.14.0] (https://nodejs.org)
+- [Expo > 48] (https://expo.dev/)
+- [React Native > 0.71.7] (https://reactnative.dev/)
+- [Tanstack/ React Query] > 4.29.5" (https://tanstack.com/)
+
+## Usage
+- Go to your project's root folder and run `npm install` or `yarn install`
+- Run `yarn start` or `npx expo start`
+
+# Images
 This is an example app built for the Simplifying State Management in React Native book.
 
 
